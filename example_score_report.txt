@@ -1,0 +1,10 @@
+
+Statistics about the scores:
+The average score across the board is 60.4115
+The highest score was 100.0 from the following people:
+Liam
+Noah
+Sophia
+The lowest score was 0.0 from the following people:
+Amelia
+Mia
